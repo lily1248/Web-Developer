@@ -1,0 +1,119 @@
+.m_tittle{
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+    margin: 5px;
+    font-size: 15px;
+}
+.images{
+    text-align: center;
+    font-size: 40px;
+    background-image: url(assets/Hero-bg.png);
+    background-position: 200px;
+
+}
+.mrg{
+    font-size: 20px;
+    font: lighter;
+}
+.btn_p{
+    background-color: #00909876;
+    padding: 20px;
+}
+.w_d{
+    text-align: center;
+    font-size: 30px;
+}
+.img{
+    padding: 50px 250px;
+    margin: 0px;
+    display: flex;
+    font-size: 15px;
+    justify-content: space-between;
+    height: 200px;
+    background-color: whitesmoke;
+}
+.btn{
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px;
+}
+.picture{
+   
+}
+.logo{
+    display: flex;
+    padding: 20px 20px;
+    margin: 100px;
+    justify-content: space-around;
+
+
+}
+.html{
+    background-color: lavenderblush;
+}
+.js{
+    background-color: beige;
+}
+.css{
+    background-color: aliceblue;
+}
+.btn_class{
+    
+    border: 30px;
+}
+/* .third_content{
+padding: 50px;
+margin-left: 150px;
+margin-right: 150px;
+padding-top: 10px;
+border: 1px solid #757575;
+border-radious: 10px; 
+align-items: center; 
+}
+.third_content img{
+margin-top:25px;
+}
+.third_content li{
+    list-style: none;
+}
+.react_content{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+,react_content{
+    font-size: 30px; */
+    .react{
+        display: flex;
+        border: 1px solid black;
+        font-size: 25px;
+        padding: 10px;
+        margin: 20px;
+        text-align: left;
+        border-radius: 15px;
+    }
+    .inline{
+        margin: 0px;
+        padding: 30px;
+    }
+    .n_tittle{
+        margin: 50px;
+    }
+
+.w_h{ 
+    text-align: center;
+    background-image: url(assets/handshake.jpg) ;
+    background-position: 0px;
+    padding: 50px;
+    
+}
+.n_tittle{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    padding: 30px;
+    margin: 30px;
+}
+.url{
+    text-decoration: white;
+}
