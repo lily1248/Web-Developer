@@ -17,8 +17,13 @@
     font: lighter;
 }
 .btn_p{
-    background-color: #00909876;
+    margin: 30px;
     padding: 20px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    
+
 }
 .w_d{
     text-align: center;
@@ -109,11 +114,20 @@ margin-top:25px;
 }
 .n_tittle{
     display: flex;
-    font-size: 20px;
+    font-size: 15px;
     justify-content: space-between;
     padding: 30px;
     margin: 30px;
+    
+
 }
 .url{
-    text-decoration: white;
+    margin: 30px;
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+}
+.n_{
+    font-size: 30px;
 }
